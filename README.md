@@ -1,6 +1,6 @@
 # TensorFlow Estimator APIs Tutorials - TensorFlow v1.4
 
-<img src="images/exp-api2.png" width="1400" hight="400">
+<img src="images/.exp-api2.pngx" width="1400" hight="400">
 
 ## The tutorials use the TF estimator APIs to cover:
 
