@@ -32,7 +32,7 @@
 
 * The use of **normalizer_fn** in numeric_column() to **scale** the numeric features using pre-computed statistics (for Min-Max or Standard scaling)
 
-* The use of **weight_column** in the canned estimators
+* The use of **weight_column** in the canned estimators, and in the loss metric in custom estimators.
 
 * Implicit **Feature Engineering** as part of defining feature_colum(s), including:
   * crossing, 
