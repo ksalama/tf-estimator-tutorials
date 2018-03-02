@@ -1,7 +1,5 @@
 # TensorFlow Estimator APIs Tutorials - TensorFlow v1.4
 
-<img src="images/exp-api2.png" width="1400" hight="400">
-
 ## The tutorials use the TF estimator APIs to cover:
 
 * Various ML tasks, currently covering:
@@ -34,7 +32,7 @@
 
 * The use of **normalizer_fn** in numeric_column() to **scale** the numeric features using pre-computed statistics (for Min-Max or Standard scaling)
 
-* The use of **weight_column** in the canned estimators
+* The use of **weight_column** in the canned estimators, and in the loss metric in custom estimators.
 
 * Implicit **Feature Engineering** as part of defining feature_colum(s), including:
   * crossing, 
