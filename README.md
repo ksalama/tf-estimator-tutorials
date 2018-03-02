@@ -46,6 +46,8 @@
 
 * Howe to use the tf.estimator.**train_and_evaluate** function (along with trainSpec & evalSpec) train, evaluate, and export models
 
+* How to use **tf.train.exponential_decay** function as a learning rate scheduler
+
 * How to **serve** exported model (export_savedmodel) using **csv** and **json** inputs
 
 ## Coming Soon:
